@@ -15,6 +15,7 @@ Mozme ho ale naincludovat pomocou kniznice
 #include <stdbool.h>
 
 
+
 void JeKladne(int n)
 {
 	if (0 < n) {

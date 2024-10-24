@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
     printf("Hello\n");                   // Fixed the typo and added a newline
     printf("Zadejte cislo: ");            // Prompt for input

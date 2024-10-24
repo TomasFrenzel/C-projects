@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //1
 void Znamka(int n) {
     if (n >= 90) {

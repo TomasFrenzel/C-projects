@@ -1,4 +1,5 @@
 /*
+
 Standard input output
 Zakladna kniznica jazyka C
 Obsahuje funkciu printf(), scanf() atd..

@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int MinMaxRozdil(int pole[], int velkost) {
     int minimum = pole[0];
     int maximum = pole[0];

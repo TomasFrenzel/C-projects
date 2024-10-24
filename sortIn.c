@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int myKalkulacka(int cislo1,int cislo2,char znak){
     if(znak == '+'){
         return cislo1 + cislo2;
